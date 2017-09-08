@@ -1,0 +1,17 @@
+name: SEO
+description: 'Provides settings and tools for  search engines and search in general.'
+type: module
+core: 8.x
+dependencies:
+  - language
+  - link
+  - node
+  - pathauto
+  - redirect
+  - scheduler
+  - search
+  - system
+  - user
+  - views
+version: 8.x-1.0
+package: 'Greencko Drupal Distribution'

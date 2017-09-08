@@ -1,0 +1,7 @@
+bundle: greencko
+excluded:
+  - search.page.user_search
+  - search.page.node_search
+  - core.entity_view_mode.node.search_index
+  - core.entity_view_mode.node.search_result
+required: true
