@@ -1,6 +1,0 @@
-engines:
-  bing: '0'
-  google: '0'
-custom_urls: ''
-minimum_lifetime: 86400
-langcode: de
